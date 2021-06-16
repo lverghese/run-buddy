@@ -22,4 +22,9 @@ body {
       text-decoration: none;
       color: #fce138;
     }
+    header nav {
+        float: right;
+        margin: 7px 0;
+
+    }
     
