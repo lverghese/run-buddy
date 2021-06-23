@@ -360,19 +360,19 @@ body {
     }
 
     /* MEDIA QUERY FOR TABLETS AND SMALLER */
-    @media screen and (max-width: 768px) {
+    
         
             /* this will be applied on any screen between 768 and 575 */
            
-    }
+   
 
     /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
-    @media screen and (max-width: 575px) {
+    
         
             /* this will be applied to any screen smaller than 575px */
             
         
-    }
+    
 
 
 
