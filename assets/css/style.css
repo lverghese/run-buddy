@@ -402,7 +402,7 @@ body {
     }
 
     /* MEDIA QUERY FOR TABLETS AND SMALLER */
-    @media screen and (max-width: 768) {
+    @media screen and (max-width: 768px) {
     /* this will be applied on any screen between 768 and 575 */
    section {
        padding: 30px 15px;
