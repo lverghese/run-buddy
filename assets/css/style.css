@@ -4,13 +4,13 @@
     box-sizing: border-box;
 }
 
-:root {
+    :root {
     --primary-color: #fce138;
     --secondary-color: #024e76;
     --tertiary-color: #39a6b2;
-}
+    }
 
-body {
+    body {
 
 
     /* more on this crazy alphanumerical value in a minute! */
